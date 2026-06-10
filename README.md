@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Mariya
 
+Software Developer with 2 years of experience building web applications and contributing to production software.
+
+🛠️ Technologies and Tools:
+JavaScript • React • Ruby on Rails • Node.js • PostgreSQL • MongoDB • HTML • CSS • Tailwind CSS • Material UI • Git • GitHub • AWS • Postman • Storybook
 <!--
-**mariyador/mariyador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
