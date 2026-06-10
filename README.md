@@ -30,12 +30,13 @@ Currently contributing to <a href="https://app.vamosoutreach.org">Vamos</a> at C
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>                  
 </p>
 
-<h2>Contact Me</h2>
+<h2>📫 &nbsp;Let's Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/mariyadoronkina/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
+Email: mariyadoronkinajobs@gmail.com
 
 <!--
 
